@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sakthi Prasad    sakthi@git.training  @sakthi
 
 # THANKS
 
